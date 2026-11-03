@@ -3,8 +3,18 @@
 An end-to-end analysis of ~96K delivered orders from a Brazilian e-commerce marketplace: what drives sales and customer satisfaction, and where the business can improve.
 
 **[Live dashboard](https://olist-analytics2026.streamlit.app/)**
+## Preview
+
+![Sales](docs/sales.png)
+
+![Delivery and satisfaction](docs/delivery.png)
+
+![Geography](docs/geography.png)
+
+![Customers](docs/customers.png)
 
 ## Key findings
+
 
 - **Late delivery costs about 2 review stars.** Late orders average 2.27 vs. 4.29 for on-time orders. Even a 1-3 day delay costs about one star.
 - **97% of customers buy only once.** The biggest growth opportunity is repeat purchase, not only acquiring new customers.
